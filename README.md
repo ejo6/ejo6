@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Eric
 
-<!--
-**ejo6/ejo6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at **Western University** (Honours BSc, Software Engineering minor) who likes building software that's actually useful, and hopefully niche :)
 
-Here are some ideas to get you started:
+## What I'm up to:
+- **Currently working on:** Locado
+- **Currently learning:** As much algorithm design as I can
+- **Open to:** hackathons, projects, internships, research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm into:
+- Backend development
+- Anything with a database
+- Machine learning
+- Theoretical computer science
+- Leetcode
+
+## Favourite tech to use:
+- **Languages:** Python, C#, Java, C++, (sometimes) C, TypeScript, SQL
+- **Tools & platforms:** Node.js, ASP.NET, FastAPI, AWS, Docker, Linux, IBM Z
+
+## Get in touch!
+- **LinkedIn:** _[https://www.linkedin.com/in/eric-o-neil-b868a0324/]_
+- **Email:** _[ericjoneil6@gmail.com]_
+- **Academic Email:** _[eoneil43@uwo.ca]_
