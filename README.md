@@ -18,7 +18,9 @@ CS student at **Western University** (Honours BSc, Software Engineering minor) w
 - **Languages:** Python, C#, Java, C++, (sometimes) C, TypeScript, SQL
 - **Tools & platforms:** Node.js, ASP.NET, FastAPI, AWS, Docker, Linux, IBM Z
 
+
 ## Get in touch!
-- **LinkedIn:** _[https://www.linkedin.com/in/eric-o-neil-b868a0324/]_
-- **Email:** _[ericjoneil6@gmail.com]_
-- **Academic Email:** _[eoneil43@uwo.ca]_
+- **LinkedIn:** [Eric O'Neil](https://www.linkedin.com/in/eric-o-neil-b868a0324/)
+- **Email:** [ericjoneil6@gmail.com](mailto:ericjoneil6@gmail.com)
+- **Academic Email:** [eoneil43@uwo.ca](mailto:eoneil43@uwo.ca)
+ 
