@@ -3,6 +3,7 @@
 CS student at **Western University** (Honours BSc, Software Engineering minor) who likes building software that's actually useful, and hopefully niche :)
 
 ## What I'm up to:
+- **🟣🐎 HACKING AT HACK WESTERN 🐎🟣**
 - **Currently working on:** Locado, Market Risk Analytics Project
 - **Currently learning:** As much algorithm design as I can
 - **Open to:** hackathons, projects, internships, research
