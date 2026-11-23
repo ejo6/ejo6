@@ -2,13 +2,10 @@
 
 CS student at **Western University** (Honours BSc, Software Engineering minor) who likes building software that's actually useful, and hopefully niche :)
 
-## Currently at Hack Western 13!! 🐎🟣
-
 ## What I'm up to:
 - **Currently working on:** Locado, Market Risk Analytics Project
 - **Currently learning:** As much algorithm design as I can
 - **Open to:** hackathons, projects, internships, research
-- **Hyped for:** Hack Western 13! 🐎
 
 ## What I'm into:
 - Backend development
