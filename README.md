@@ -2,6 +2,9 @@
 
 CS student at **Western University** (Honours BSc, Software Engineering minor) who likes building software that's actually useful, and hopefully niche :)
 
+## Song of the Week:
+[![Have a Cigar – Pink Floyd](assets/song-of-the-week.svg)](https://open.spotify.com/track/3CmHvyZQQAGkKkTjTBFWN6)
+
 ## What I'm up to:
 - **Currently working on:** Locado, Market Risk Analytics Project
 - **Currently learning:** As much algorithm design as I can
